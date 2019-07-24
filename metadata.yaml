@@ -1,5 +1,8 @@
 _repo: The-Whites-and-the-Blues_59938
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59938#The-Whites-and-the-Blues
 gutenberg_issued: '2019-07-17'
 gutenberg_type: Text
 identifiers:
